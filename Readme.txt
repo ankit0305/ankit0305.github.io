@@ -1,1 +1,0 @@
-Thanks for checking out my account.

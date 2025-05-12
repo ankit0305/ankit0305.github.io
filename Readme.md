@@ -1,0 +1,26 @@
+### Hi there 👋  I'm Ankit
+
+<!--
+**ankit0305/ankit0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+- 🔭 I’m currently doing Master's in NLP at [**DCU**](https://www.dcu.ie/).
+- 📜 I have a Bachelor's degrees in Computer science.
+- 🌱 I’m currently learning [**LLM**], [**Generative AI**], [**Machine Transaltion**]
+- 👯 I have worked on Automation for [**UI**], [**API**] and [**CLI**] for different companies.
+- 📫 How to reach me: [**jaiswal.ankit2000@gmail.com**]
+- ⚡ Fun fact: I like to code and solve problems with code.
+
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit0305&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
